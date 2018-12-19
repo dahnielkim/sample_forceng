@@ -1,0 +1,19 @@
+{
+  "name": "sample_forceng",
+  "version": "1.0.0",
+  "description": "Testing the ForceNG MicroLibrary with AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dahnielkim/sample_forceng.git"
+  },
+  "author": "dahnielkim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dahnielkim/sample_forceng/issues"
+  },
+  "homepage": "https://github.com/dahnielkim/sample_forceng#readme"
+}
